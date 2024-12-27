@@ -1,4 +1,5 @@
 A project for CSE 340 by Jason Kim, Aynur Sari, Salim Moshe, and Andrea Danila.
+<img width="775" alt="Screenshot 2024-12-26 at 7 04 25 PM" src="https://github.com/user-attachments/assets/8c570c13-790d-446d-ae94-28d137bde436" />
 
 
 # DawgDealz
